@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: All About Amy
 permalink: /about-me/
 ---
 
