@@ -9,6 +9,7 @@
 | Team | Microsoft Excel |
 | Job | Senior Software Engineer |
 | Family | Spouse (m 2008); 2 Children (b 2014, 2016) |
+| Working hours | 8am - 4:30pm Pacific M-F |
 | Manual last updated | 9/19/2022 |
 
 ## Favorite things
