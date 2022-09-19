@@ -1,16 +1,16 @@
 # Amy Glaves
 
 ## System overview
-| Spec | Description |
-|-- | -- |
-| Manufactured Year | 1988  |
-| Model | Woman, 5'2" |
-| Degree | Computer Science Bioinformatics 2010 |
-| Team | Microsoft Excel |
-| Job | Senior Software Engineer |
-| Family | Spouse (m 2008); 2 Children (b 2014, 2016) |
-| Working hours | 8am - 4:30pm Pacific M-F |
-| Manual last updated | 9/19/2022 |
+<table>
+  <tr><td>Manufactured Year</td><td>1988</td></tr>
+  <tr><td>Model</td><td>Woman 5'2"</td></tr>
+  <tr><td>Degree</td><td>Computer Science Bioinformatics 2010</td></tr>
+  <tr><td>Team</td><td>Microsoft Excel</td></tr>
+  <tr><td>Job</td><td>Senior Software Engineer</td></tr>
+  <tr><td>Family</td><td>Spouse (m 2008); 2 Children (b 2014, 2016)</td></tr>
+  <tr><td>Working hours</td><td>8am - 4:30pm Pacific M-F</td></tr>
+  <tr><td>Manual last updated</td><td>9/19/2022</td></tr>
+</table>
 
 ## Favorite things
 - Puzzles
