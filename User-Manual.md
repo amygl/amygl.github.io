@@ -1,29 +1,28 @@
 # Amy Glaves
 
 ## System overview
-<table style="text-align:left">
-  <tr><td>Manufactured Year</td><td>1988</td></tr>
-  <tr><td>Model</td><td>Woman 5'2"</td></tr>
-  <tr><td>Degree</td><td>Computer Science Bioinformatics 2010</td></tr>
-  <tr><td>Team</td><td>Microsoft Excel</td></tr>
-  <tr><td>Job</td><td>Senior Software Engineer</td></tr>
-  <tr><td>Family</td><td>Spouse (m 2008); 2 Children (b 2014, 2016)</td></tr>
-  <tr><td>Working hours</td><td>8am - 4:30pm Pacific M-F</td></tr>
-  <tr><td>Manual last updated</td><td>9/22/2022</td></tr>
+<table>
+  <tr><td style="text-align:left">Manufactured Year</td><td style="text-align:left">1988</td></tr>
+  <tr><td style="text-align:left">Model</td><td style="text-align:left">Woman 5'2"</td></tr>
+  <tr><td style="text-align:left">Degree</td><td style="text-align:left">Computer Science Bioinformatics 2010</td></tr>
+  <tr><td style="text-align:left">Team</td><td style="text-align:left">Microsoft Excel</td></tr>
+  <tr><td style="text-align:left">Job</td><td style="text-align:left">Senior Software Engineer</td></tr>
+  <tr><td style="text-align:left">Family</td><td style="text-align:left">Spouse (m 2008); 2 Children (b 2014, 2016)</td></tr>
+  <tr><td style="text-align:left">Working hours</td><td style="text-align:left">8am - 4:30pm Pacific M-F</td></tr>
+  <tr><td style="text-align:left">Manual last updated</td><td style="text-align:left">9/22/2022</td></tr>
 </table>
 
 ## Features
-- Great at planning and bring order
-- Every day tries to fix at least one thing & help at least one person
+- Daily goal to fix one thing & help one person
+- Great at planning and bringing order
 - Strives for accuracy
 - Loves to deeply understand code and systems
-- Favorite days are ones where falls into hyperfocus state for hours
 - Enjoys repetitive tasks and also automating them wherever possible
 
 ## Communication
 Prefers the following methods in order of preference:
 1. Email
-2. Async Teams messages
+2. Async messages
 3. In person discussion
 4. Video chats
 5. Text message
@@ -32,13 +31,13 @@ Prefers the following methods in order of preference:
 9. Courier pigeon
 10. Phone call / audio only calls
 
-Audio-processing disorder makes it difficult to understand when multiple people speak at the same time, including in environments like restaurants/cafes/etc. Often relies on lip-reading and non-verbal communication to fill in the gaps.  Dreams of the day when subtitle glasses are no longer a prototype in a lab.
+Audio-processing disorder makes understanding difficult when multiple people speak at the same time, including in environments like restaurants/cafes/etc. Often relies on lip-reading and non-verbal communication to fill in the gaps.  Dreams of the day when subtitle glasses are no longer a prototype in a lab.
 
-Word recall is difficult during conversations, overcompensates with hand gestures and dramatic facial expressions. Often appears to have little to say during meetings but will have lots of opinions once the conversation has ended. Responds best to async requests for feedback.
+Word recall is difficult, overcompensates with hand gestures and dramatic facial expressions. Often appears to have little to say during meetings but will have lots of opinions once the conversation has ended. Responds best to async requests for feedback.
 
 Complex ideas are best presented using diagrams, whiteboards and supporting material.
 
-Can tolerate 3 hours of social interaction daily, across both work and personal interactions. More than 6 hours will cause shut down.
+Can tolerate ~3 hours of social interaction daily, across both work and personal interactions. More than 6 hours will cause shut down.
 
 Eye contact and casual touch require intense energy. Has gotten pretty good at looking at nose/glasses/ears to work around the expectation for eye contact. Will avoid handshakes whenever possible.
 
