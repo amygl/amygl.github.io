@@ -68,9 +68,13 @@ Works best in groups of four or less.
   - Providing immediate response when uncertain
 
 ## Favorite things
-- Folklore, Mythology & Fairy Tales - What the Folklore, Lore Olympus, random tomes of Greek, Norse, German, Russian myths and tales (Looking for recos to expand out of Eurocentric 🗺️)
-- SciFi & Fantasy - Naomi Novik, Tolkien, GRRM, Olivia Butler, Marissa Meyer, Neil Gaiman, The Adventure Zone, Mirror Visitor, Full Metal Alchemist
+- Folklore, Mythology & Fairy Tales - [What the Folklore](https://www.wtfolklorepodcast.com/), [Lore Olympus](https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320&page=1), random tomes of Greek, Norse, German, Russian myths and tales (Looking for recos to expand out of Eurocentric 🗺️)
+- SciFi & Fantasy - Naomi Novik, Tolkien, GRRM, Octavia Butler, Marissa Meyer, Neil Gaiman, [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/), Mirror Visitor, Full Metal Alchemist
 - Video games - Stardew Valley, Zelda, Hades, Animal Crossing, Dragon Age, Slay the Spire, Mass Effect, Fallen London, Cult of the Lamb, Witcher
 - Puzzles
-- Legos
-- Embroidery
+- [Legos](https://user-images.githubusercontent.com/10605976/191845404-13e42138-7cd1-4c99-a187-0592a733f192.jpg) 
+![giant lego wall_map](https://user-images.githubusercontent.com/10605976/191845404-13e42138-7cd1-4c99-a187-0592a733f192.jpg) 
+- [Embroidery](https://user-images.githubusercontent.com/10605976/191846591-41c29224-3567-4e87-9361-fcc3faee0622.jpg)
+<img src="https://user-images.githubusercontent.com/10605976/191846591-41c29224-3567-4e87-9361-fcc3faee0622.jpg" alt="In progress cross-stitch of Rivendell from Lord of the Rings" title="In progress cross-stitch of Rivendell from Lord of the Rings" width="450"/>
+
+
