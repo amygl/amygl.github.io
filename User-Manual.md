@@ -16,12 +16,12 @@
 
 ## Favorite things
 - Folklore, Mythology & Fairy Tales - What the Folklore, Lore Olympus, random tomes of Greek, Norse, German, Russian myths and tales (Looking for recos to expand out of eurocentric 🗺️)
-- SciFi & Fantasy - Naomi Novik, Tokien, GRRM, Olivia Butler, Marissa Meyer, Neil Gaiman
-- Video games - Stardew Valley, Zelda, Hades, Animal Crossing, Dragon Age, Slay the Spire, Mass Effect, Fallen London, Cult of the Lamb
-- Puzzles
-- Legos
-- Embroidery
-- Paper crafts
+- SciFi & Fantasy - Naomi Novik, Tokien, GRRM, Olivia Butler, Marissa Meyer, Neil Gaiman, The Adventure Zone, Mirror Visitor, Full Metal Alchemist
+- Video games - Stardew Valley, Zelda, Hades, Animal Crossing, Dragon Age, Slay the Spire, Mass Effect, Fallen London, Cult of the Lamb, Witcher
+- Puzzles - paper, jigsaw, physical
+- Legos - todo insert picture of lego map
+- Embroidery - todo insert picture of: currently workinhg on year long temperature tracker & Rivendell scene
+- Paper crafts - cricut, bookbinding, vinyl, glass etching
 
 ## Known bugs & workarounds
 - Short-term memory
