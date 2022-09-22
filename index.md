@@ -1,4 +1,4 @@
 # Hey everybody!
 
-My stuff:
+## My stuff:
 -  [User Manual](User-Manual.md)
