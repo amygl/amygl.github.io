@@ -1,7 +1,7 @@
 # Amy Glaves
 
 ## System overview
-<table>
+<table style="text-align:left">
   <tr><td>Manufactured Year</td><td>1988</td></tr>
   <tr><td>Model</td><td>Woman 5'2"</td></tr>
   <tr><td>Degree</td><td>Computer Science Bioinformatics 2010</td></tr>
@@ -72,9 +72,7 @@ Works best in groups of four or less.
 - SciFi & Fantasy - Naomi Novik, Tolkien, GRRM, Octavia Butler, Marissa Meyer, Neil Gaiman, [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/), Mirror Visitor, Full Metal Alchemist
 - Video games - Stardew Valley, Zelda, Hades, Animal Crossing, Dragon Age, Slay the Spire, Mass Effect, Fallen London, Cult of the Lamb, Witcher
 - Puzzles
-- [Legos](https://user-images.githubusercontent.com/10605976/191845404-13e42138-7cd1-4c99-a187-0592a733f192.jpg) 
+- Embroidery
+- Legos
 ![giant lego wall_map](https://user-images.githubusercontent.com/10605976/191845404-13e42138-7cd1-4c99-a187-0592a733f192.jpg) 
-- [Embroidery](https://user-images.githubusercontent.com/10605976/191846591-41c29224-3567-4e87-9361-fcc3faee0622.jpg)
-<img src="https://user-images.githubusercontent.com/10605976/191846591-41c29224-3567-4e87-9361-fcc3faee0622.jpg" alt="In progress cross-stitch of Rivendell from Lord of the Rings" title="In progress cross-stitch of Rivendell from Lord of the Rings" width="450"/>
-
 
