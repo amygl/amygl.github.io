@@ -9,14 +9,16 @@
   <tr><td>Job</td><td>Senior Software Engineer</td></tr>
   <tr><td>Family</td><td>Spouse (m 2008); 2 Children (b 2014, 2016)</td></tr>
   <tr><td>Working hours</td><td>8am - 4:30pm Pacific M-F</td></tr>
-  <tr><td>Manual last updated</td><td>9/19/2022</td></tr>
+  <tr><td>Manual last updated</td><td>9/22/2022</td></tr>
 </table>
 
+## Features
+
 ## Favorite things
+- Folklore, Mythology & Fairy Tales - What the Folklore, Lore Olympus, random tomes of Greek, Norse, German, Russian myths and tales (Looking for recos to expand out of eurocentric 🗺️)
+- SciFi & Fantasy - Naomi Novik, Tokien, GRRM, Olivia Butler, Marissa Meyer, Neil Gaiman
+- Video games - Stardew Valley, Zelda, Hades, Animal Crossing, Dragon Age, Slay the Spire, Mass Effect, Fallen London, Cult of the Lamb
 - Puzzles
-- Folklore, Mythology & Fairy Tales
-- SciFi & Fantasy books, movies, video games
-- Linguistics & etymology
 - Legos
 - Embroidery
 - Paper crafts
