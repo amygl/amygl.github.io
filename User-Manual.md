@@ -13,11 +13,12 @@
 </table>
 
 ## Features
+- Great at planning and bring order
 - Every day tries to fix at least one thing & help at least one person
+- Strives for accuracy
 - Loves to deeply understand code and systems
-- Loves fixing annoyances
 - Favorite days are ones where falls into hyperfocus state for hours
-- Enjoys repetitive tasks
+- Enjoys repetitive tasks and also automating them wherever possible
 
 ## Communication
 Prefers the following methods in order of preference:
@@ -63,6 +64,8 @@ Works best in groups of four or less.
 - Struggles with uncertainty
   - The fuzzier a task the more stressful it is
   - Sudden changes cause distress, need heads up that plans may be changing as soon as possible to mitigate
+  - Making decisions under stress
+  - Providing immediate response when uncertain
 
 ## Favorite things
 - Folklore, Mythology & Fairy Tales - What the Folklore, Lore Olympus, random tomes of Greek, Norse, German, Russian myths and tales (Looking for recos to expand out of Eurocentric 🗺️)
